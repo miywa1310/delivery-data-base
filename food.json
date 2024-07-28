@@ -82,7 +82,7 @@
         {
             "_id": "6",
             "name": "Peri Peri Rolls",
-            "image": "ttps://i0.wp.com/thetrendingdiary.com/wp-content/uploads/2019/08/oriental-chicken-wrap-1-940x627.jpg?fit=940%2C627&ssl=1",
+            "image": "https://i0.wp.com/thetrendingdiary.com/wp-content/uploads/2019/08/oriental-chicken-wrap-1-940x627.jpg?fit=940%2C627&ssl=1",
             "price": 12,
             "description": "Food provides essential nutrients for overall health and well-being",
             "category": "Rolls",
