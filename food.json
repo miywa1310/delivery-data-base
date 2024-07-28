@@ -1,0 +1,294 @@
+{
+    "menuList": [
+        {
+            "menu_name": "Salad",
+            "menu_image": "https://www.foodandwine.com/thmb/IuZPWAXBp4YaT9hn1YLHhuijT3k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/FAW-recipes-big-italian-salad-hero-83e6ea846722478f8feb1eea33158b00.jpg"
+        },
+        {
+            "menu_name": "Rolls",
+            "menu_image": "https://www.elmundoeats.com/wp-content/uploads/2024/02/Crispy-spring-rolls-500x500.jpg"
+        },
+        {
+            "menu_name": "Deserts",
+            "menu_image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/easy-chocolate-molten-cakes-37a25eb.jpg"
+        },
+        {
+            "menu_name": "Sandwich",
+            "menu_image": "https://www.southernliving.com/thmb/UW4kKKL-_M3WgP7pkL6Pb6lwcgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ham_Sandwich_011-1-49227336bc074513aaf8fdbde440eafe.jpg"
+        },
+        {
+            "menu_name": "Cake",
+            "menu_image": "https://www.recipetineats.com/tachyon/2020/08/My-best-Vanilla-Cake_9-SQ.jpg"
+        },
+        {
+            "menu_name": "Pure Veg",
+            "menu_image": "https://i.pinimg.com/originals/e7/b3/d8/e7b3d814d6303203175f73a53d0509e4.jpg"
+        },
+        {
+            "menu_name": "Pasta",
+            "menu_image": "https://www.allrecipes.com/thmb/mvO1mRRH1zTz1SvbwBCTz78CRJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/67700_RichPastaforthePoorKitchen_ddmfs_4x3_2284-220302ec8328442096df370dede357d7.jpg"
+        },
+        {
+            "menu_name": "Noodles",
+            "menu_image": "https://shwetainthekitchen.com/wp-content/uploads/2023/03/vegetable-noodles.jpg"
+        }
+    ],
+    "food_list": [
+        {
+            "_id": "1",
+            "name": "Greek salad",
+            "image": "https://www.aheadofthyme.com/wp-content/uploads/2016/03/the-perfect-greek-salad-7.jpg",
+            "price": 12,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Salad"
+        },
+        {
+            "_id": "2",
+            "name": "Veg salad",
+            "image": "https://realfood.tesco.com/media/images/RFO-1400x919-Roasted-veg-salad-with-cashew-dressing-mini-5d03a1f0-1c52-4662-aff4-d968f08cb5f6-0-1400x919.jpg",
+            "price": 18,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Salad"
+        },
+        {
+            "_id": "3",
+            "name": "Clover Salad",
+            "image": "https://parsleyinmyteeth.com/wp-content/uploads/2016/02/Clover-Red-Beet-Sprout-Salad-with-Avocado-Black-Beans-Quinoa-1024x683.jpg",
+            "price": 16,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Salad"
+        },
+        {
+            "_id": "4",
+            "name": "Chicken Salad",
+            "image": "https://assets.epicurious.com/photos/64a845e67799ee8651e4fb8f/1:1/w_2240,c_limit/AshaGrilledChickenSalad_RECIPE_070523_56498.jpg",
+            "price": 24,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Salad"
+        },
+        {
+            "_id": "5",
+            "name": "Lasagna Rolls",
+            "image": "https://www.southernliving.com/thmb/0b9JI4t73Am8cltmXR5PqDGAP84=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tomato-basil-lasagna-rolls-sl-crop-b6b9d23a5e7e4eda855038893b1c5707.jpg",
+            "price": 14,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Rolls"
+        },
+        {
+            "_id": "6",
+            "name": "Peri Peri Rolls",
+            "image": "ttps://i0.wp.com/thetrendingdiary.com/wp-content/uploads/2019/08/oriental-chicken-wrap-1-940x627.jpg?fit=940%2C627&ssl=1",
+            "price": 12,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Rolls"
+        },
+        {
+            "_id": "7",
+            "name": "Chicken Rolls",
+            "image": "https://japan.recipetineats.com/wp-content/uploads/2022/01/Chicken_Rolls_Stuffed_with_Vegetables_7223sq.jpg",
+            "price": 20,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Rolls"
+        },
+        {
+            "_id": "8",
+            "name": "Veg Rolls",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWHCmFh1HrtOA0f4ovb5DyI_mlfOU0ODyUGQ&s",
+            "price": 15,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Rolls"
+        },
+        {
+            "_id": "9",
+            "name": "Ripple Ice Cream",
+            "image": "https://food-images.files.bbci.co.uk/food/recipes/raspberryrippleicecr_91970_16x9.jpg",
+            "price": 14,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Deserts"
+        },
+        {
+            "_id": "10",
+            "name": "Fruit Ice Cream",
+            "image": "https://static.toiimg.com/thumb/60019725.cms?imgsize=287198&width=800&height=800",
+            "price": 22,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Deserts"
+        },
+        {
+            "_id": "11",
+            "name": "Jar Ice Cream",
+            "image": "https://www.biggerbolderbaking.com/wp-content/uploads/2020/05/Homemade-Ice-Cream-In-A-Jar-WS-Thumbnail1.jpg",
+            "price": 10,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Deserts"
+        },
+        {
+            "_id": "12",
+            "name": "Vanilla Ice Cream",
+            "image": "https://www.theroastedroot.net/wp-content/uploads/2023/06/dairy-free-vanilla-ice-cream-8-500x500.jpg",
+            "price": 12,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Deserts"
+        },
+        {
+            "_id": "13",
+            "name": "Chicken Sandwich",
+            "image": "https://static01.nyt.com/images/2021/07/06/dining/yk-muhammara-chicken-sandwiches/merlin_189026502_58171dd4-b0bc-47c3-aa6a-d910a3f1de4c-superJumbo.jpg",
+            "price": 12,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Sandwich"
+        },
+        {
+            "_id": "14",
+            "name": "Vegan Sandwich",
+            "image": "https://www.budgetbytes.com/wp-content/uploads/2021/08/Ultimate-Veggie-Sandwich-hand.jpg",
+            "price": 18,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Sandwich"
+        },
+        {
+            "_id": "15",
+            "name": "Grilled Sandwich",
+            "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2014/01/grilled-sandwich-4.jpg",
+            "price": 16,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Sandwich"
+        },
+        {
+            "_id": "16",
+            "name": "Bread Sandwich",
+            "image": "https://thehappyfoodie.co.uk/wp-content/uploads/2022/08/Mary-Berry-Eggy-Bread-Cook-and-Share-BBC2.jpg",
+            "price": 24,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Sandwich"
+        },
+        {
+            "_id": "17",
+            "name": "Cup Cake",
+            "image": "https://www.allrecipes.com/thmb/i9KCEbxUGQ1Sa4F7Gts7SGBOpoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/157877-vanilla-cupcakes-ddmfs-4X3-0397-59653731be1d4769969698e427d7f5bc.jpg",
+            "price": 14,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Cake"
+        },
+        {
+            "_id": "18",
+            "name": "Vegan Cake",
+            "image": "https://lovingitvegan.com/wp-content/uploads/2015/10/Vanilla-Cake-10.jpg",
+            "price": 12,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Cake"
+        },
+        {
+            "_id": "19",
+            "name": "Butterscotch Cake",
+            "image": "https://shreemsweetsandbakery.com/wp-content/uploads/2021/04/Crunchy-Butterscotch-Cake.jpg",
+            "price": 20,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Cake"
+        },
+        {
+            "_id": "20",
+            "name": "Sliced Cake",
+            "image": "https://www.edithpatisserie.com//image/cache/catalog/Standard%20Cake/Party%20Cake%20Slices-1-700x700.jpg",
+            "price": 15,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Cake"
+        },
+        {
+            "_id": "21",
+            "name": "Garlic Mushroom ",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/12/Garlic-mushrooms-320ddd6.jpg?quality=90&resize=556,505",
+            "price": 14,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Pure Veg"
+        },
+        {
+            "_id": "22",
+            "name": "Fried Cauliflower",
+            "image": "https://www.jocooks.com/wp-content/uploads/2012/10/fried-cauliflower-1-2.jpg",
+            "price": 22,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Pure Veg"
+        },
+        {
+            "_id": "23",
+            "name": "Mix Veg Pulao",
+            "image": "https://cdn1.foodviva.com/static-content/food-images/rice-recipes/vegetable-pulav-recipe/vegetable-pulav-recipe.jpg",
+            "price": 10,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Pure Veg"
+        },
+        {
+            "_id": "24",
+            "name": "Rice Zucchini",
+            "image": "https://cooktoria.com/wp-content/uploads/2021/03/Zucchini-Rice-SQ-1.jpg",
+            "price": 12,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Pure Veg"
+        },
+        {
+            "_id": "25",
+            "name": "Cheese Pasta",
+            "image": "https://www.allrecipes.com/thmb/e8uotDI18ieXNBY0KpmtGKbxMRM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238691-Simple-Macaroni-And-Cheese-mfs_008-4x3-6ed91ba87a1344558aacc0f9ef0f4b41.jpg",
+            "price": 12,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Pasta"
+        },
+        {
+            "_id": "26",
+            "name": "Tomato Pasta",
+            "image": "https://www.allrecipes.com/thmb/5SdUVhHTMs-rta5sOblJESXThEE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11691-tomato-and-garlic-pasta-ddmfs-3x4-1-bf607984a23541f4ad936b33b22c9074.jpg",
+            "price": 18,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Pasta"
+        },
+        {
+            "_id": "27",
+            "name": "Creamy Pasta",
+            "image": "https://www.melskitchencafe.com/wp-content/uploads/2023/02/creamy-garlic-shrimp-pasta11.jpg",
+            "price": 16,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Pasta"
+        },
+        {
+            "_id": "28",
+            "name": "Chicken Pasta",
+            "image": "https://assets.epicurious.com/photos/5988e3458e3ab375fe3c0caf/1:1/w_2560%2Cc_limit/How-to-Make-Chicken-Alfredo-Pasta-hero-02082017.jpg",
+            "price": 24,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Pasta"
+        },
+        {
+            "_id": "29",
+            "name": "Buttter Noodles",
+            "image": "https://www.allrecipes.com/thmb/IAP81Be7Nyly6t_Wkq1uYKzH-qo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/244458-buttered-noodles-DDMFS-4x3-b9931662efa64b37883c0f73b296b124.jpg",
+            "price": 14,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Noodles"
+        },
+        {
+            "_id": "30",
+            "name": "Veg Noodles",
+            "image": "https://originz.co/uploadfile/recipe/thumbnail1662722366.jpg",
+            "price": 12,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Noodles"
+        },
+        {
+            "_id": "31",
+            "name": "Somen Noodles",
+            "image": "https://woodlandfoods.com/img/WF_Images/q34-hawaiian-cold-somen-noodle-salad-1.jpg",
+            "price": 20,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Noodles"
+        },
+        {
+            "_id": "32",
+            "name": "Cooked Noodles",
+            "image": "https://www.thereciperebel.com/wp-content/uploads/2022/05/chicken-spaghetti-TRR-1200-24-of-49.jpg",
+            "price": 15,
+            "description": "Food provides essential nutrients for overall health and well-being",
+            "category": "Noodles"
+        }
+    ]
+}
